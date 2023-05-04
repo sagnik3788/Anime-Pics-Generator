@@ -1,1 +1,2 @@
-# Anime-Pics-Generator
+Random Anime
+Generate random anime images
